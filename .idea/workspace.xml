@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9db54fb1-a35e-44fa-8030-fc1f2f115f26" name="Changes" comment="ActExtra7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controlador/ControladorLibro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/modelo/ModeloTablaLibro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/vista/VentanaLibro.java" afterDir="false" />
+    <list default="true" id="9db54fb1-a35e-44fa-8030-fc1f2f115f26" name="Changes" comment="ActExtra8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/librosDB.db" beforeDir="false" afterPath="$PROJECT_DIR$/librosDB.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controlador/ControladorLibro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controlador/ControladorLibro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/modelo/ModeloTablaLibro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/modelo/ModeloTablaLibro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/vista/VentanaLibro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/vista/VentanaLibro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,13 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684700773132</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ActExtra8">
+      <created>1685042781882</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685042781882</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ActExtra6" />
     <MESSAGE value="ActExtra7" />
-    <option name="LAST_COMMIT_MESSAGE" value="ActExtra7" />
+    <MESSAGE value="ActExtra8" />
+    <option name="LAST_COMMIT_MESSAGE" value="ActExtra8" />
   </component>
 </project>
